@@ -1,0 +1,162 @@
+### Step 2A
+/c/Users/shife
+
+
+### Step 2B
+cd Desktop/
+
+
+### Step 2C
+ cd unit1-git-practice/
+
+
+
+
+### Step 2D
+/c/Users/shife/Desktop/unit1-git-practice
+
+
+
+### Step 2E
+ls
+
+
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd /c
+
+
+### Step 2H
+/c
+
+
+### Step 2I
+'$MfeDeepRem'/
+'$Recycle.Bin'/
+'$WINDOWS.~BT'/
+'$WinREAgent'/
+'5-15-22 Iphone 8 photos backup'/
+ Apps/
+ Bosch/
+'Documents and Settings'@
+ Drivers/
+ DumpStack.log
+ DumpStack.log.tmp
+'Extension stay reqeust statement_Shengli Shi.pdf'
+ FIOD.manifest
+ Intel/
+ OneDriveTemp/
+ PerfLogs/
+"Preparer's signature_Feng Shi.jpg"
+'Program Files'/
+'Program Files (x86)'/
+ ProgramData/
+ Recovery/
+'Shengli SHI_I-94.pdf'
+'System Volume Information'/
+ Users/
+ Windows/
+'ZF -001.zip'
+'ZF picture'/
+'baba extension stay request'/
+ dell/
+ dell.sdr
+ e-logo/
+'feng shi'/
+ hiberfil.sys
+ pagefile.sys
+ passport.jpg
+ swapfile.sys
+ visa.jpg
+
+
+### Step 2J
+ cd Users/shife/
+
+
+### Step 2K
+
+cd Desktop/unit1-git-practice/
+
+
+### Step 3A
+mkdir veggies meats desserts
+
+
+### Step 3B
+mv desserts sweets
+
+
+### Step 3C
+
+mkdir proteins
+
+### Step 3D
+mv meats proteins
+
+
+### Step 3E
+
+cd veggies/
+ touch carrot.txt pea.txt
+
+### Step 3F
+cd ..
+cd sweets/
+touch cookie.txt
+
+
+### Step 3G
+mv cookie.txt donut.txt
+
+
+### Step 3H
+ cd ..
+ touch thing.txt
+
+
+### Step 3I
+cp thing.txt tofu.txt
+
+
+### Step 3J
+ mv tofu.txt proteins
+
+
+### Step 3K
+cp thing.txt crab.txt
+ mv crab.txt proteins
+cd proteins/
+ mv crab.txt meats
+
+
+### Step 3L
+ cd ..
+ rm thing.txt
+
+
+### Step 3M
+cp -r veggies plants
+
+
+### Step 3N
+
+ mkdir drinks
+rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
